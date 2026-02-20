@@ -9,6 +9,10 @@ The report focuses on:
 
 The goal was to practice DAX fundamentals including CALCULATE, FILTER, RANKX, running totals, and dynamic insights.
 
+## Project Files
+
+- Power BI report: `pizza_sales_report.pbix`
+  
 ## Data Model
 
 - Fact tables: order_details, orders
