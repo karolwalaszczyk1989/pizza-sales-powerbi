@@ -15,8 +15,8 @@ The goal was to practice DAX fundamentals including CALCULATE, FILTER, RANKX, ru
 - Dimension tables: pizzas, pizza_types, calendar
 - Star schema design (with normalized product dimensions)
 - Dedicated Calendar table (no auto date/time)
+![Data Model](screenshots/data_model_pizza_slices.JPG)
 
-SCREENSHOT MODELU DANYCH ----------------------------------------------------------------------
 ## Key DAX Techniques
 
 - Running total using CALCULATE and FILTER
@@ -46,10 +46,10 @@ SCREENSHOT MODELU DANYCH -------------------------------------------------------
   ## Screenshots
 
 ### Time Analysis
-![Time Analysis](screenshots/01_time_analysis.png)
+![Time Analysis](screenshots/time_analysis.JPG)
 
 ### Category Breakdown
-![Category Breakdown](screenshots/02_category_breakdown.png)
+![Category Breakdown](screenshots/category_performance.JPG)
 
 ### Executive Summary
-![Executive Summary](screenshots/03_executive_summary.png)
+![Executive Summary](screenshots/executive_summary.JPG)
